@@ -8,5 +8,6 @@ file_name="IE.txt"
   end
   `git add #{file_name}`
   `git commit -m "commit ##{i}"`
-  `git push`
 end
+
+`git push`
