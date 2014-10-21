@@ -8,3 +8,4 @@ idea to that.
 Just take a look at [the code][CODE] and guess.
 
 [CODE]: https://github.com/nilsding/Commitr/blob/master/commitr.rb
+
